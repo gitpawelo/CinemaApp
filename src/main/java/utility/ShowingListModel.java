@@ -1,4 +1,4 @@
-package model.utility;
+package utility;
 
 import model.Showing;
 

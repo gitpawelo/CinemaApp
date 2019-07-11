@@ -2,7 +2,7 @@ package model.dao;
 
 
 import model.Movie;
-import model.utility.HibernateUtil;
+import utility.HibernateUtil;
 import org.hibernate.HibernateException;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
